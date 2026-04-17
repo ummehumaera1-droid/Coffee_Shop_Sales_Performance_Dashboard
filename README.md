@@ -30,3 +30,18 @@ The goal of this project is to turn raw sales data into actionable business insi
 - Create a clear, city-wise revenue breakdown.
 8. How does revenue compare to profit across categories or time periods?
 - Use comparative visuals to display this relationship.
+
+## Methodology & Process
+1. Data Processing
+- Cleaning: Handled missing values and standardized data types (Dates, Currency in BDT).
+- Transformation: Categorized products into logical groups (Coffee, Snacks, Specialty Drinks).
+2. Data Modeling
+- Calculated Measures: Developed DAX/formulas for MoM Growth % and profitability.
+- Architecture: Structured data for multi-level filtering (Year, Month, City).
+3. Data Visualization & Insights
+- Executive Summary: KPI cards for Transactions, Quantity, Revenue, and Profit.
+- Trend Mapping: Line and Bar charts for Monthly and Weekly sales fluctuations.
+- Product Analytics: Identified top revenue drivers (e.g., Coffee Beverages at 29.53%).
+- Regional Analysis: Compared performance across New York, Chicago, and LA.
+4. Interactive UX
+- Dynamic Filters: Integrated Slicers (Year 2021-23, Month, City) for granular data drill-down.
