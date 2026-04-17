@@ -30,6 +30,8 @@ The goal of this project is to turn raw sales data into actionable business insi
 - Create a clear, city-wise revenue breakdown.
 8. How does revenue compare to profit across categories or time periods?
 - Use comparative visuals to display this relationship.
+  
+- Dashboard Interaction <a href="https://github.com/ummehumaera1-droid/Coffee_Shop_Sales_Performance_Dashboard/blob/main/Screenshot%202026-04-17%20205603.png>View Dashboard</a>
 
 ## Methodology & Process
 1. Data Processing
