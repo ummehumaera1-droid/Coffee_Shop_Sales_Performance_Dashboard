@@ -47,3 +47,7 @@ The goal of this project is to turn raw sales data into actionable business insi
 - Regional Analysis: Compared performance across New York, Chicago, and LA.
 4. Interactive UX
 - Dynamic Filters: Integrated Slicers (Year 2021-23, Month, City) for granular data drill-down.
+
+## Dashboard
+<img width="1397" height="592" alt="Screenshot 2026-04-17 205603" src="https://github.com/user-attachments/assets/5ed4979f-47a1-4b46-abaf-f30e1ad38ef6" />
+
